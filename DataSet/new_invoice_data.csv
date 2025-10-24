@@ -1,0 +1,101 @@
+invoice_id,vendor_id,vendor_name,invoice_date,due_date,amount,item_count,payment_status,description,is_fraud,anomaly_reason,is_duplicate_invoice,invoice_id_length,invoice_id_digits,days_to_due,cleaned_description,predicted_is_fraud,fraud_probability
+2e6ede72,1698,"Parker, Parker and Atkinson",2025-08-21,2025-09-23,2223.15,8,Paid,Desk Chair - installation included,0,Normal,0,8,2,33,Desk Chair - installation included,0,0.057132613
+4ae6c654,1222,"Maynard, Colon and Williams",2025-05-08,2025-05-31,443.78,10,Unpaid,Installation Service - monthly supply,0,Normal,0,8,4,23,Installation Service - monthly supply,0,0.2504388
+8fcd50e5,1395,Romero Group,2025-09-18,2025-10-14,3050.31,10,Pending,Coffee Machine - installation included,0,Normal,0,8,8,26,Coffee Machine - installation included,0,0.18135734
+318980c9,1944,Williams-Dorsey,2025-09-15,2025-10-17,4026.43,9,Pending,Delivery Service - monthly supply,0,Normal,0,8,318980,32,Delivery Service - monthly supply,0,0.024737474
+6d0aec01,1284,Watkins Ltd,2025-09-22,2025-09-13,681.8,9,Unpaid,Laptop - urgent delivery,1,Due date earlier than invoice date,0,8,6,0,Laptop - urgent delivery,1,0.9959572
+71575ded,1907,Gates-Myers,2025-05-22,2025-07-03,782.09,5,Unpaid,Installation Service - for office use,0,Normal,0,8,71575,42,Installation Service - for office use,0,0.036835294
+a6becf8e,1911,Smith Inc,2025-09-19,2025-10-13,2174.9,5,Pending,Monitor - monthly supply,0,Normal,1,8,6,24,Monitor - monthly supply,1,0.68667877
+75f90b1d,1196,"Wall, Robinson and Hall",2025-09-23,2025-10-26,3809.28,8,Unpaid,Delivery Service - for office use,0,Normal,0,8,75,33,Delivery Service - for office use,0,0.039980486
+fb2d1f8a,1587,Leblanc-Rogers,2025-10-15,2025-11-29,2144.64,7,Paid,CoffeeMachine - quarterly maintenance,1,Suspicious text validation,0,8,2,45,CoffeeMachine - quarterly maintenance,1,0.862888
+34d4dc45,1350,Blankenship-White,2025-09-06,2025-09-21,2890.32,5,Unpaid,Keyboard - bulk order,0,Normal,0,8,34,15,Keyboard - bulk order,0,0.028232882
+4ec602e7,1604,"Ramirez, Nichols and Francis",2025-05-25,2025-07-09,1862.55,1,Pending,Monitor - quarterly maintenance,0,Normal,0,8,4,45,Monitor - quarterly maintenance,0,0.03137238
+0b3e9c66,1211,Lang Group,2025-06-16,2025-07-26,3545.23,7,Pending,Pen Set - monthly supply,0,Normal,0,8,0,40,Pen Set - monthly supply,0,0.019036941
+ce22a41e,1128,White-Sullivan,2025-06-07,2025-07-22,4066.73,8,Unpaid,Projector - for office use,0,Normal,0,8,22,45,Projector - for office use,0,0.022341158
+aa02bf37,2018,Hahn-Ramirez,2025-06-24,2025-07-31,415.1890000000001,8,Paid,Installation Service - urgent delivery,1,Suspicious invoice amount,0,8,2,37,Installation Service - urgent delivery,1,0.6196743
+698b3f86,1165,Townsend Group,2025-06-18,2025-07-25,2442.2,2,Pending,Laptop- monthly supply,1,Suspicious text validation,0,8,698,37,Laptop- monthly supply,1,0.9903756
+9aef0cbf,1117,Wang-Hicks,2025-07-16,2025-08-06,2098.0,3,Unpaid,Delivery Service - for office use,0,Normal,0,8,9,21,Delivery Service - for office use,0,0.024360742
+bd08bb50,1106,Nash-Faulkner,2025-09-22,2025-10-27,14674.300000000001,10,Unpaid,Desk Chair - monthly supply,1,Suspicious invoice amount,0,8,8,35,Desk Chair - monthly supply,1,0.98830646
+21370cdb,1063,"Adams, Pace and Turner",2025-05-04,2025-06-14,2044.17,6,Unpaid,Cleaning Service - customer support included,0,Normal,1,8,21370,41,Cleaning Service - customer support included,1,0.7568107
+7c8c897f,1382,Roberts Group,2025-08-01,2025-09-14,820.77,1,Unpaid,Projector - urgent delivery,0,Normal,0,8,7,44,Projector - urgent delivery,0,0.07772554
+e4410885,1416,Coleman PLC,2025-08-02,2025-08-20,924.85,1,Unpaid,Maintenance Service - quarterly maintenance,1,Duplicate invoice ID,1,8,4410885,18,Maintenance Service - quarterly maintenance,1,0.72314787
+c4574937,1293,Moore-Lee,2025-05-05,2025-05-26,2203.78,9,Pending,Coffee Machine - installation included,0,Normal,0,8,4574937,21,Coffee Machine - installation included,0,0.16403878
+03724178,1889,"Browning, Brown and Yates",2025-10-19,2025-11-07,3015.63,4,Paid,Monitor - bulk order,0,Normal,0,8,3724178,19,Monitor - bulk order,0,0.05835204
+d03b2af9,2074,Howe LLC,2025-09-27,2025-10-21,4206.67,9,Paid,Desk Chair - monthly supply,0,Normal,0,8,3,24,Desk Chair - monthly supply,0,0.020746054
+a29a885e,1675,"Charles, Long and Little",2025-07-14,2025-08-26,3402.1,4,Pending,Maintenance Service - urgent delivery,0,Normal,0,8,29,43,Maintenance Service - urgent delivery,0,0.012533566
+77aeff86,1188,Carney Group,2025-09-20,2025-10-06,4892.55,6,Paid,Monitor - monthly supply,0,Normal,0,8,77,16,Monitor - monthly supply,0,0.028056571
+bf8e7354,1753,Bell Group,2025-10-05,2025-11-04,335.02,9,Unpaid,Monitor- bulk order,1,Suspicious text validation,0,8,8,30,Monitor- bulk order,1,0.9987686
+ca593777,1182,Wiggins Group,2025-06-05,2025-07-07,1877.73,5,Unpaid,Keyboard - installation included,0,Normal,0,8,593777,32,Keyboard - installation included,0,0.026813667
+b7660fb1,1833,Porter-Flores,2025-05-13,2025-05-06,2527.75,7,Pending,Delivery Service - monthly supply,1,Due date earlier than invoice date,0,8,7660,0,Delivery Service - monthly supply,1,0.9896355
+43553ee0,2049,Chang PLC,2025-07-10,2025-08-20,3006.03,6,Pending,Router - customer support included,0,Normal,0,8,43553,41,Router - customer support included,0,0.019297754
+d0c80a24,1840,Barker-Doyle,2025-05-25,2025-06-19,136.43,6,Paid,Installation Service - installation included,0,Normal,0,8,0,25,Installation Service - installation included,1,0.6401049
+e1ac033e,1426,"Dean, Bass and Howell",2025-07-07,2025-07-29,1368.4,4,Unpaid,Software Subscription - quarterly maintenance,0,Normal,0,8,1,22,Software Subscription - quarterly maintenance,0,0.107567385
+1a8cc82a,1709,"Williams, Pittman and Lopez",2025-06-21,2025-07-23,3643.49,6,Paid,MaintenanceService - bulk order,1,Suspicious text validation,0,8,1,32,MaintenanceService - bulk order,0,0.05893732
+55525e4a,1530,Mcdonald-Reyes,2025-09-08,2025-09-01,4128.69,8,Paid,Software Subscription - installation included,1,Due date earlier than invoice date,0,8,55525,0,Software Subscription - installation included,1,0.9929461
+67032d7b,1760,"Henderson, Mclaughlin and Barrera",2025-08-23,2025-09-20,3940.36,3,Paid,Consulting Services - urgent delivery,0,Normal,0,8,67032,28,Consulting Services - urgent delivery,0,0.1670272
+e525e74c,1011,Wolfe-Tapia,2025-08-22,2025-09-27,2122.56,9,Paid,Router - installation included,1,Duplicate invoice ID,1,8,525,36,Router - installation included,1,0.7238222
+16b9ea1b,1415,Petty-Robinson,2025-09-05,2025-09-20,1370.9,1,Paid,Monitor - monthly supply,0,Normal,0,8,16,15,Monitor - monthly supply,0,0.021900773
+6477eb8a,1389,"Stevens, Adams and Yoder",2025-08-01,2025-08-27,4557.0,5,Pending,Notebook - for office use,0,Normal,0,8,6477,26,Notebook - for office use,0,0.011734107
+60d578dd,1933,"Jones, Olson and Carter",2025-07-03,2025-07-23,2229.46,8,Unpaid,USB Drive - for office use,0,Normal,0,8,60,20,USB Drive - for office use,0,0.014239317
+6ed78d02,1203,Buchanan-Mercado,2025-05-27,2025-06-19,1915.46,3,Pending,USBDrive - customer support included,1,Suspicious text validation,0,8,6,23,USBDrive - customer support included,1,0.949023
+e35fe438,1590,"Watson, Bond and Perry",2025-07-29,2025-08-31,1865.9,9,Paid,Cleaning Service - bulk order,0,Normal,0,8,35,33,Cleaning Service - bulk order,0,0.020432604
+bfa4c7d9,2025,"Fry, Berg and Saunders",2025-05-09,2025-06-11,1303.67,7,Pending,Mouse - for office use,0,Normal,0,8,4,33,Mouse - for office use,0,0.04820215
+0eef2dc4,1783,Morgan Group,2025-08-12,2025-09-01,3071.33,9,Unpaid,Laptop - for office use,0,Normal,0,8,0,20,Laptop - for office use,0,0.020541977
+de28dbe5,2067,Jones-Yang,2025-07-08,2025-07-29,3599.95,3,Paid,Pen Set - for office use,0,Normal,0,8,28,21,Pen Set - for office use,0,0.02291475
+18785749,1462,Briggs-Allen,2025-08-09,2025-08-26,32333.800000000003,5,Paid,Laptop - bulk order,1,Suspicious invoice amount,0,8,18785749,17,Laptop - bulk order,1,0.9911704
+5d0d524b,1326,Henry LLC,2025-10-13,2025-11-23,1949.22,5,Paid,Printer - urgent delivery,0,Normal,0,8,5,41,Printer - urgent delivery,0,0.022398643
+d0ef4cbe,1924,Perez-Bowers,2025-07-06,2025-08-08,2508.57,5,Paid,Installation Service - customer support included,0,Normal,0,8,0,33,Installation Service - customer support included,0,0.028636198
+44643546,1712,Li PLC,2025-08-23,2025-10-01,16577.35,3,Paid,Notebook - urgent delivery,1,Suspicious invoice amount,1,8,44643546,39,Notebook - urgent delivery,1,0.99805707
+c072a3c4,1775,"Owens, Rodriguez and Peterson",2025-07-28,2025-08-13,2218.87,5,Unpaid,Whiteboard - installation included,0,Normal,0,8,72,16,Whiteboard - installation included,0,0.0330504
+e2374880,1690,"Waller, Booth and Bruce",2025-05-05,2025-05-24,2548.31,9,Paid,Projector - installation included,0,Normal,0,8,2374880,19,Projector - installation included,0,0.026721118
+b3b743e9,1144,Garcia and Sons,2025-09-09,2025-10-18,397.91,1,Pending,USB Drive - urgent delivery,0,Normal,0,8,3,39,USB Drive - urgent delivery,1,0.5217241
+62f2d7d6,1967,White-Hayes,2025-10-23,2025-11-11,3241.5,10,Pending,Maintenance Service - monthly supply,1,Suspicious invoice amount,0,8,62,19,Maintenance Service - monthly supply,0,0.015840566
+a00d075c,1909,"Thompson, King and Brown",2025-08-20,2025-08-12,641.7,9,Unpaid,Mouse - quarterly maintenance,1,Due date earlier than invoice date,0,8,0,0,Mouse - quarterly maintenance,1,0.9962031
+06343bad,2037,Clark and Sons,2025-06-08,2025-07-16,4124.36,8,Pending,Monitor - bulk order,0,Normal,0,8,6343,38,Monitor - bulk order,0,0.07259186
+8d8c0c96,1880,Williams-Lee,2025-07-29,2025-08-18,1710.06,7,Paid,OfficeDesk - urgent delivery,1,Suspicious text validation,0,8,8,20,OfficeDesk - urgent delivery,1,0.83868885
+a1a142b8,1224,Harris-Warren,2025-09-12,2025-10-22,1495.01,8,Unpaid,Whiteboard- bulk order,1,Suspicious text validation,0,8,1,40,Whiteboard- bulk order,1,0.990703
+61531465,1040,"Green, Weber and Watson",2025-06-20,2025-07-31,2761.31,10,Paid,Office Desk - monthly supply,0,Normal,0,8,61531465,41,Office Desk - monthly supply,0,0.029632905
+104f1a2d,1108,"Martin, Brock and Nguyen",2025-07-25,2025-08-25,15757.349999999999,5,Pending,Coffee Machine - installation included,1,Suspicious invoice amount,0,8,104,31,Coffee Machine - installation included,1,0.9945353
+79be14b7,2032,"Hopkins, Little and Snyder",2025-06-03,2025-07-11,2636.46,6,Pending,USB Drive - customer support included,0,Normal,0,8,79,38,USB Drive - customer support included,0,0.035807297
+16d7b662,1939,Pierce-Davis,2025-07-16,2025-08-20,730.82,3,Paid,Delivery Service - for office use,0,Normal,0,8,16,35,Delivery Service - for office use,0,0.026983147
+a082e5c7,1901,"Gonzalez, Smith and Melendez",2025-05-18,2025-07-01,3968.59,4,Unpaid,Monitor - monthly supply,0,Normal,0,8,82,44,Monitor - monthly supply,0,0.03412433
+035d674f,1605,"Green, Williamson and Reed",2025-07-18,2025-08-31,3830.45,6,Unpaid,Whiteboard - bulk order,0,Normal,0,8,35,44,Whiteboard - bulk order,0,0.025900448
+5bcb8dd4,2070,Curtis LLC,2025-07-21,2025-08-28,4913.34,5,Pending,Delivery Service - urgent delivery,0,Normal,0,8,5,38,Delivery Service - urgent delivery,0,0.038541544
+a0835b8a,1832,Thompson and Sons,2025-09-16,2025-10-11,1164.44,6,Paid,Printer- installation included,1,Suspicious text validation,0,8,835,25,Printer- installation included,1,0.9881733
+676f5a16,1225,Wilson-Powell,2025-09-30,2025-10-30,2795.06,10,Pending,Stationery Set - urgent delivery,0,Normal,0,8,676,30,Stationery Set - urgent delivery,0,0.035369467
+b8ffa07f,1431,"Escobar, Rogers and Sanchez",2025-07-17,2025-08-05,1708.75,3,Pending,Mouse - urgent delivery,0,Normal,0,8,8,19,Mouse - urgent delivery,0,0.03614482
+a11993bc,1221,Edwards-Marshall,2025-05-19,2025-06-04,3729.51,6,Paid,MaintenanceService - urgent delivery,1,Suspicious text validation,0,8,11993,16,MaintenanceService - urgent delivery,0,0.19059974
+7ed9d270,1074,Chase Ltd,2025-08-24,2025-09-22,2605.92,7,Paid,Installation Service - installation included,0,Normal,0,8,7,29,Installation Service - installation included,0,0.1546373
+5b26e3a4,1886,"Wright, Jones and Singleton",2025-08-08,2025-08-24,3388.21,6,Paid,Installation Service - customer support included,0,Normal,0,8,5,16,Installation Service - customer support included,0,0.049742922
+e4410885,1452,Guzman Inc,2025-07-29,2025-08-29,2028.0,1,Paid,ConsultingServices - urgent delivery,1,Suspicious text validation,1,8,4410885,31,ConsultingServices - urgent delivery,1,0.99276006
+44643546,1142,Wagner-Fitzgerald,2025-08-26,2025-09-15,122.42,4,Unpaid,Printer - for office use,1,Duplicate invoice ID,1,8,44643546,20,Printer - for office use,1,0.90814716
+4a11a123,1079,Bell-Porter,2025-08-01,2025-09-14,15126.949999999999,4,Paid,Projector - bulk order,1,Suspicious invoice amount,0,8,4,44,Projector - bulk order,1,0.99251336
+fc4fb2b4,1085,Miller-Taylor,2025-05-31,2025-06-17,4025.48,6,Pending,Installation Service - monthly supply,0,Normal,0,8,4,17,Installation Service - monthly supply,0,0.02152541
+8738e817,2092,Simpson-Thompson,2025-09-05,2025-09-20,3229.65,5,Pending,Keyboard - customer support included,0,Normal,0,8,8738,15,Keyboard - customer support included,0,0.07574897
+ee3a7efe,1034,Walsh-Welch,2025-07-31,2025-08-30,2901.62,3,Paid,Whiteboard - monthly supply,0,Normal,0,8,3,30,Whiteboard - monthly supply,0,0.02466561
+f7b904d4,1343,Gallegos LLC,2025-05-07,2025-06-04,1401.86,10,Pending,Printer - monthly supply,0,Normal,0,8,7,28,Printer - monthly supply,0,0.011457488
+3cdc3bbd,1640,Ellis Inc,2025-07-20,2025-08-04,529.68,6,Unpaid,Router - bulk order,0,Normal,0,8,3,15,Router - bulk order,0,0.032797772
+3dbc3320,1073,Mcmahon-Collins,2025-05-02,2025-05-22,2476.11,6,Paid,Installation Service - customer support included,0,Normal,0,8,3,20,Installation Service - customer support included,0,0.04944062
+7be85d88,1140,"Jackson, Mercer and Crawford",2025-08-24,2025-10-03,221.71,10,Pending,Mouse - bulk order,0,Normal,0,8,7,40,Mouse - bulk order,0,0.36439165
+8f0079e6,1269,"Mcgee, Barrett and Warren",2025-06-07,2025-06-23,2567.42,5,Pending,Cleaning Service - for office use,0,Normal,0,8,8,16,Cleaning Service - for office use,0,0.02821666
+19b2f249,1765,"Daniels, Austin and Klein",2025-07-27,2025-08-22,265.33,3,Paid,Stationery Set - bulk order,0,Normal,0,8,19,26,Stationery Set - bulk order,0,0.36920744
+2dcb7dd9,1633,Johnson-Weaver,2025-08-27,2025-10-01,675.87,10,Pending,Consulting Services - quarterly maintenance,0,Normal,0,8,2,35,Consulting Services - quarterly maintenance,0,0.18695346
+e525e74c,1735,Cole-Johnson,2025-06-04,2025-07-07,4180.02,9,Paid,Office Desk - monthly supply,0,Normal,1,8,525,33,Office Desk - monthly supply,1,0.6996261
+285ea918,1453,"Hall, Guzman and King",2025-08-06,2025-09-02,4237.36,7,Paid,Cleaning Service - installation included,0,Normal,0,8,285,27,Cleaning Service - installation included,0,0.09988787
+b96352f2,1372,"Williams, Smith and Snow",2025-05-24,2025-06-21,2652.57,9,Unpaid,Maintenance Service - installation included,0,Normal,0,8,96352,28,Maintenance Service - installation included,0,0.010686445
+39cdf157,1205,"Nguyen, Oliver and King",2025-05-09,2025-05-25,18539.0,1,Unpaid,Software Subscription - urgent delivery,1,Suspicious invoice amount,0,8,39,16,Software Subscription - urgent delivery,1,0.98890185
+403731c4,1972,"White, Carter and Tanner",2025-07-21,2025-08-12,474.9770000000001,1,Pending,Notebook - customer support included,1,Suspicious invoice amount,0,8,403731,22,Notebook - customer support included,0,0.19550303
+5499c8dd,1642,Allen Group,2025-06-30,2025-07-28,4247.23,6,Unpaid,Maintenance Service - for office use,0,Normal,0,8,5499,28,Maintenance Service - for office use,0,0.13362566
+a6becf8e,1648,King-Strickland,2025-05-23,2025-06-16,1238.24,4,Pending,Installation Service - for office use,1,Duplicate invoice ID,1,8,6,24,Installation Service - for office use,1,0.8270064
+d918830a,1103,Reynolds Group,2025-09-20,2025-10-30,2945.63,5,Pending,Monitor - bulk order,0,Normal,0,8,918830,40,Monitor - bulk order,0,0.05521717
+ab708a73,1114,Morris Group,2025-06-14,2025-07-25,4838.01,10,Paid,Consulting Services - bulk order,0,Normal,0,8,708,41,Consulting Services - bulk order,0,0.022776533
+f747b38a,1247,"Brown, Robertson and Murphy",2025-08-26,2025-09-15,4488.57,9,Paid,Office Desk - urgent delivery,0,Normal,0,8,747,20,Office Desk - urgent delivery,0,0.01615642
+4a56cd4a,1799,Gonzalez Group,2025-06-08,2025-07-03,3461.8,1,Unpaid,Stationery Set - urgent delivery,0,Normal,0,8,4,25,Stationery Set - urgent delivery,0,0.04871957
+5e857a64,1963,Cochran-Herring,2025-06-29,2025-07-14,2858.1,8,Paid,Installation Service - quarterly maintenance,0,Normal,1,8,5,15,Installation Service - quarterly maintenance,1,0.5798712
+1f6e1ff6,1822,"Jenkins, Campbell and Williams",2025-07-18,2025-08-12,1093.74,3,Pending,Laptop - customer support included,0,Normal,0,8,1,25,Laptop - customer support included,0,0.029251847
+21370cdb,1001,"Gilmore, Davila and Hamilton",2025-09-08,2025-10-01,1985.95,1,Paid,USB Drive - bulk order,1,Duplicate invoice ID,1,8,21370,23,USB Drive - bulk order,1,0.5864979
+069972c8,2069,Mcgee-Schneider,2025-09-06,2025-09-23,1327.6,8,Unpaid,Mouse - monthly supply,0,Normal,0,8,69972,17,Mouse - monthly supply,0,0.014597914
+404298bf,1935,"White, Sheppard and Hammond",2025-09-19,2025-10-30,3372.4,8,Pending,Pen Set - bulk order,0,Normal,0,8,404298,41,Pen Set - bulk order,0,0.041607462
+5e857a64,1216,Cox-Rodriguez,2025-08-30,2025-10-08,3068.82,5,Paid,Maintenance Service - urgent delivery,1,Duplicate invoice ID,1,8,5,39,Maintenance Service - urgent delivery,1,0.6544349
+737da154,1361,"Paul, Walker and Henderson",2025-10-01,2025-09-26,401.08,8,Unpaid,Cleaning Service - quarterly maintenance,1,Due date earlier than invoice date,0,8,737,0,Cleaning Service - quarterly maintenance,1,0.9970982
+afb88b23,1886,Gibson Ltd,2025-09-15,2025-10-01,1270.26,2,Paid,USB Drive - installation included,0,Normal,0,8,88,16,USB Drive - installation included,0,0.027468277
