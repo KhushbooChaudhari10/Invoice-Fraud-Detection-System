@@ -8,7 +8,3 @@ venv/
 __pycache__/
 *.pyc
 
-# Ignore generated files
-scaler.joblib
-tfidf_vectorizer.joblib
-XGBoost_model.joblib
